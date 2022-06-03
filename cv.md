@@ -77,3 +77,10 @@ So, i don't have any work experience or finished projects, but i do have a big h
 * _JavaScript/Front-end. Stage 0 (In progress...)_
 
 ***
+
+### Languages:
+
+* **Russian** (Native)
+* **English** (Intermediate)
+* **Ukrainian** (Elementary)
+* **Spanish** (Simple phrases)
