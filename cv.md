@@ -15,9 +15,11 @@ Compared to others (_adults and already succesful in their fields_), i'm totally
 But it will be lie, if i say, that i didn't watch over STEM. I remember, that i had an attempt to join the IT-sphere. My poor unprepared head was boiling under the attack of Python's basics. It's no wonder, this studying process was shut down. At that moment, my thoughts were dismal.
 
 > I never can do this... That's too much.
+
 After many months, to my joy now, i cooled off. And... Started again, but now from HTML/CSS + JavaScript. It was ***mine***. I never felt this kind of excitement and interest in something before. Finally, this was a feeling of the ground under my feet.
 
 > I really want to know all of this stuff! I should try hard and be persistent, and everything will be alright!
+
 So, i don't have any work experience or finished projects, but i do have a big hope in future and desire to work as hard as possible. That's the one of important parts of the whole success picture.
 
 ***
@@ -36,18 +38,25 @@ So, i don't have any work experience or finished projects, but i do have a big h
 
 ```
 <script type="text/javascript">
+
     var a = prompt("Введите первое число");
     var b = prompt("Введите второе число");
+    
     a = parseInt(a);
     b = parseInt(b);
+    
     var c = a + b;
     alert("Сумма двух чисел: " + c);
+    
     c = a * b;
     alert("Произведение двух чисел: " + c);
+    
     c = a / b;
     alert("Деление двух чисел: " + c);
+    
     c = (a + b) / 2;
     alert("Среднее арифметическое двух чисел: " + c);
+    
 </script>
 ```
 
