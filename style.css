@@ -1,1 +1,124 @@
-Something in CSS
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+html {
+  box-sizing: content-box;
+  width: 100%;
+  font-family: "Abel", sans-serif;
+  font-size: 18px;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --onyx-color: #393D3F;
+  --platinum-color: #E2E1DC;
+  --silver-color: #C6C5B9;
+  --teal-blue-color: #5b7e8d;
+  --charcoal-color: #425461;
+  scroll-behavior: smooth;
+}
+
+body {
+  color: var(--onyx-color);
+  background-color: var(--platinum-color);
+}
+
+.wrapper {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.header-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: var(--silver-color);
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+}
+
+.header-navigation {
+  display: flex;
+  align-items: center;
+  margin: 30px 26px;
+}
+
+.header-menu::marker {
+  color: var(--teal-blue-color);
+}
+
+ul .header-menu {
+  margin-right: 30px;
+}
+
+.header-menu > a {
+  font-size: 25px;
+  text-decoration: none;
+}
+
+h1,
+h2 {
+  font-size: 25px;
+}
+
+.header-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: nowrap;
+}
+
+.header-info .name,
+.header-info .occupation {
+  margin: 15px 20px;
+}
+
+.header-image img {
+  width: 290px;
+  height: 290px;
+  border: 5px solid rgb(91, 126, 141, 0.8);
+  border-radius: 60%;
+  margin: 30px 25px;
+}
+
+.header-image::before {
+  content: "";
+  display: block;
+  background-color: rgb(91, 126, 141, 0.8);
+  position: absolute;
+  top: -80px;
+  width: 150px;
+  height: 150px;
+  border-radius: 60%;
+  margin-left: -90px;
+}
+
+.main-container {
+  display: flex;
+  float: left;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  background-color: var(--silver-color);
+}
+
+.aside-container {
+  display: flex;
+  float: right;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  background-color: var(--silver-color);
+}
+
+.footer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: var(--silver-color);
+}
