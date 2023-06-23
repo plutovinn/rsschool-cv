@@ -4,13 +4,13 @@
 * __Phone:__ +7(918)-667-26-78
 * __E-mail:__ ephemera96@protonmail.com
 * __GitHub:__ [plutovinn](https://github.com/plutovinn "GitHub")
-* __Telegram:__ @plutovinno
+* __Telegram:__ @plutovinn0
 
 ***
 
 ### Next, about myself:
 
-Compared to others (_adults and already succesful in their fields_), i'm totally in the beginning of this tough but exciting journey. When i graduated from high school, i decided to not throw myself under the first random faculty of the first random university. Well... In other words, i decided to take a break due my preoccupation with a future profession and bad mental health. Fortunately, after some time my severe depression was defeated but i still was in dismay. More than a year ago my interests was primarly _not-technical-at-all_. I wanted to find my true self in arts or foreign languages. But, sooner or later, it simply became annoying and after all didn't bring any exhaust.
+Compared to others (_adults and already succesful in their fields_), i'm totally in the beginning of this tough but exciting journey. When i graduated from high school, i decided to not throw myself under the first random faculty of the first random university. Well... In other words, i decided to take a break due my preoccupation with a future profession and some issues with mental health. Fortunately, after some time my severe depression was defeated but i still was in dismay. More than a year ago my interests was primarly _not-technical-at-all_. I wanted to find my true self in arts or foreign languages. But, sooner or later, it simply became annoying and after all didn't bring any exhaust.
 
 But it will be lie, if i say, that i didn't watch over STEM. I remember, that i had an attempt to join the IT-sphere. My poor unprepared head was boiling under the attack of Python's basics. It's no wonder, this studying process was shut down. At that moment, my thoughts were dismal.
 
@@ -91,5 +91,3 @@ So, i don't have any work experience or finished projects, but i do have a big h
 
 * **Russian** (Native)
 * **English** (Intermediate)
-* **Ukrainian** (Elementary)
-* **Spanish** (Simple phrases)
