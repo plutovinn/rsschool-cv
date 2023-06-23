@@ -91,5 +91,3 @@ So, i don't have any work experience or finished projects, but i do have a big h
 
 * **Russian** (Native)
 * **English** (Intermediate)
-* **Ukrainian** (Elementary)
-* **Spanish** (Simple phrases)
